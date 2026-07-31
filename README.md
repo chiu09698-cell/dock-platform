@@ -1,69 +1,70 @@
-# Dock Platform
+# Kiwi
 
-Dock is an open-source, community-owned AI productivity platform that enhances office software with intelligent assistance, automation, and developer-built extensions.
+**The open-source AI workflow engine for productivity software.**
+
+## Mission
+
+Help people automate repetitive work across the productivity software they already use.
 
 ## Vision
 
-To become the world's leading open-source AI platform for office productivity.
+Become the workflow layer that connects people, AI, and productivity applications.
 
-## Features
+## Core Principles
 
-- AI writing assistant
-- Document summarization
-- Smart formatting
-- Grammar correction
-- Office tutor
-- File compatibility tools
-- Crash recovery
-- Plugin marketplace
+- Open Source
+- Community Owned
+- Privacy First
+- AI Model Agnostic
+- Extensible
+- Workflow First
+
+## What Kiwi Does
+
+- Automates repetitive work
+- Connects productivity software
+- Supports multiple AI models
+- Executes intelligent workflows
+- Enables developers to build extensions
+
+## Supported Platforms
+
+- Microsoft Office
+- Google Workspace
+- LibreOffice
+- Notion (future)
+- Slack (future)
+
+## Architecture
+
+Productivity Apps
+↓
+Kiwi Connectors
+↓
+Workflow Engine
+↓
+AI Layer
+↓
+Open AI Models
 
 ## Roadmap
 
-- [ ] Word Add-in
-- [ ] AI Chat
-- [ ] Summarize Documents
-- [ ] Rewrite Text
-- [ ] Grammar Assistant
-- [ ] Excel Support
-- [ ] PowerPoint Support
-- [ ] Community Plugin Marketplace
+### v0.1
+- Microsoft Word plugin
+- Basic workflow engine
 
-## Contributing
+### v0.2
+- Excel support
+- Workflow editor
 
-We welcome contributions from developers around the world.
+### v0.3
+- Marketplace
+- Google Workspace
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a pull request.
-
----
+### v1.0
+- Community ecosystem
+- Enterprise deployment
 
 ## Community
 
-Dock is community-owned. Major decisions are discussed openly, and everyone is welcome to contribute.
-
----
-
-## Tech Stack
-
-- React
-- TypeScript
-- Office.js
-- FastAPI
-- Python
-- SQLite
-
----
-
-## Status
-
-🚧 Dock is currently under active development.
-
-Version: 0.0.1
-
-
-
-## License
-
-MIT
+Kiwi is developed openly with community contributions and transparent decision-making.
